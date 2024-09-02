@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "Mopet Coffee",
+  "welcome_message": "Coffee rants all day.",
+  "fedi:pinned_message": "Have you had a cup of coffee today? ☕️",
+  "fedi:federation_icon_url": "https://www.rd.com/wp-content/uploads/2021/10/may-this-morning-coffee-give-you-strength-to-make-it-to-your-mid-morning-coffee.jpg?fit=700,700",
+  "fedi:tos_url": "https://fedi.xyz/",
+  "default_matrix_rooms": "[]"
+}
